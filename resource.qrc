@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/test.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/save.png</file>
+        <file>icons/showAnnotationsTools.png</file>
+        <file>icons/export.png</file>
+        <file>icons/saveas.png</file>
+        <file>Actions.qml</file>
+        <file>Main.qml</file>
+        <file>Content.qml</file>
+        <file>LeftContent.qml</file>
+        <file>RightContent.qml</file>
+        <file>LeftTools.qml</file>
+        <file>BottomTools.qml</file>
+        <file>Dialogs.qml</file>
+        <file>icons/arrow.png</file>
+        <file>icons/ellipse.png</file>
+        <file>icons/text.png</file>
+        <file>icons/line.png</file>
+        <file>icons/paint.png</file>
+        <file>icons/mosaic.png</file>
+        <file>icons/pen.png</file>
+        <file>icons/rect.png</file>
+        <file>icons/drag.png</file>
+        <file>icons/information.png</file>
+        <file>icons/qq.png</file>
+        <file>icons/wexin.png</file>
+        <file>icons/record.png</file>
+        <file>SelectWindow.qml</file>
+        <file>icons/moasicdraw.png</file>
+        <file>icons/clear.png</file>
+    </qresource>
+</RCC>
